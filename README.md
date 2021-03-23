@@ -8,3 +8,4 @@ To open the project download KiCAD and open the .pro file.
 
 ## Image
 An render of the circuit board is provided below:
+![alt text](https://github.com/sonbesie/timer_pcb/blob/main/pcb.jpg?raw=true)
