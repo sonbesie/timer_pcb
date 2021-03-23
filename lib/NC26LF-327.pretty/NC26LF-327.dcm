@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NC26LF-327
+D Crystal 32.768KHz 2x6mm Crystal 32.768kHz, +/-20ppm, 2-Pin 2.0 x 6.0mm THT
+K
+F https://componentsearchengine.com/Datasheets/2/NC26LF-327.pdf
+$ENDCMP
+#
+#End Doc Library

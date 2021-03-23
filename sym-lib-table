@@ -1,0 +1,8 @@
+(sym_lib_table
+  (lib (name G5LE-1A-E-36_DC5)(type Legacy)(uri ${KIPRJMOD}/lib/G5LE-1A-E-36_DC5.pretty/G5LE-1A-E-36_DC5.lib)(options "")(descr ""))
+  (lib (name 282837-2)(type Legacy)(uri ${KIPRJMOD}/lib/282837-2.pretty/282837-2.lib)(options "")(descr ""))
+  (lib (name 292304-2)(type Legacy)(uri ${KIPRJMOD}/lib/292304-2.pretty/292304-2.lib)(options "")(descr ""))
+  (lib (name NC26LF-327)(type Legacy)(uri ${KIPRJMOD}/lib/NC26LF-327.pretty/NC26LF-327.lib)(options "")(descr ""))
+  (lib (name IRFZ44NPBF)(type Legacy)(uri ${KIPRJMOD}/lib/IRFZ44NPBF/IRFZ44NPBF.lib)(options "")(descr ""))
+  (lib (name STQ3N45K3-AP)(type Legacy)(uri ${KIPRJMOD}/lib/STQ3N45K3-AP.pretty/STQ3N45K3-AP.lib)(options "")(descr ""))
+)

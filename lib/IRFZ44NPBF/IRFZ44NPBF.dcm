@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRFZ44NPBF
+D MOSFET N-Channel 55V 49A TO220AB Infineon IRFZ44NPBF N-channel MOSFET Transistor, 49 A, 55 V, 3-Pin TO-220AB
+K
+F https://www.infineon.com/dgdl/irfz44npbf.pdf?fileId=5546d462533600a40153563b3a9f220d
+$ENDCMP
+#
+#End Doc Library
